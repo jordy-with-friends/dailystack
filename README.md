@@ -2,7 +2,7 @@
 
  스택형 인간들의 매일 할 일 스택~ 비워내기! 프로젝트  
  
- [dailystack](https://github.com/dailystack/dailystack, "dailystack") 이란 Organization을 보고 벤치마킹 했습니다!
+ [dailystack](https://github.com/dailystack/dailystack "dailystack") 이란 Organization을 보고 벤치마킹 했습니다!
  
 
 <br>
