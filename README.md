@@ -1,6 +1,9 @@
 # DailyStack 
 
  스택형 인간들의 매일 할 일 스택~ 비워내기! 프로젝트  
+ 
+ [dailystack](https://github.com/dailystack/dailystack, "dailystack") 이란 Organization을 보고 벤치마킹 했습니다!
+ 
 
 <br>
 
@@ -11,9 +14,10 @@
 - 매일 할 일을 이슈로 생성한다.
 - 다음 날 아침 전까지 모두 수행한다.
 
-```python
-if not stack:
-  sleep()
+```java
+if(stack.empty()) {
+  sleep();
+}
 ```
 
 <br>
