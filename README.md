@@ -1,4 +1,4 @@
-# DailyStack 
+q# DailyStack 
 
  스택형 인간들의 매일 할 일 스택~ 비워내기! 프로젝트  
  
@@ -45,19 +45,19 @@ if(stack.empty()) {
   </tr>
   <tr>
     <td align="center" width="200px">
-      <strong>죠르디</strong><br><a href="https://github.com/jordy-torvalds/">chaselover</a>
+      <strong>죠르디</strong><br><a href="https://github.com/jordy-torvalds/">jordy-torvalds</a>
     </td>
     <td align="center" width="200px">
-      <strong>죠르디</strong><br><a href="https://github.com/jordy-torvalds/">devpla</a>
+      <strong>죠르디</strong><br><a href="https://github.com/jordy-torvalds/">jordy-torvalds</a>
     </td>
     <td align="center" width="200px">
-      <strong>죠르디</strong><br><a href="https://github.com/jordy-torvalds/">seokzin</a>
+      <strong>죠르디</strong><br><a href="https://github.com/jordy-torvalds/">jordy-torvalds</a>
     </td>
     <td align="center" width="200px">
-      <strong>죠르디</strong><br><a href="https://github.com/jordy-torvalds/">rosieyeon</a>
+      <strong>죠르디</strong><br><a href="https://github.com/jordy-torvalds/">jordy-torvalds</a>
     </td>
     <td align="center" width="200px">
-      <strong>죠르디</strong><br><a href="https://github.com/jordy-torvalds/">zerossy</a>
+      <strong>죠르디</strong><br><a href="https://github.com/jordy-torvalds/">jordy-torvalds</a>
     </td>
   </tr>
 </table>
