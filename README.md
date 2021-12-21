@@ -1,4 +1,4 @@
-q# DailyStack 
+# DailyStack 
 
  스택형 인간들의 매일 할 일 스택~ 비워내기! 프로젝트  
  
